@@ -1,0 +1,11 @@
+[INFO ] 2021-05-13T13:34:21,159 [main] Starter - Starting Starter on BRPC013171 with PID 15972 (C:\Dev\projects\blockchain\docchain\clients\build\classes\java\main started by armu in C:\Dev\projects\blockchain\docchain\clients)
+[INFO ] 2021-05-13T13:34:21,191 [main] Starter - No active profile set, falling back to default profiles: default
+[INFO ] 2021-05-13T13:34:22,927 [main] TomcatWebServer - Tomcat initialized with port(s): 10060 (http)
+[INFO ] 2021-05-13T13:34:23,214 [main] ContextLoader - Root WebApplicationContext: initialization completed in 1980 ms
+[INFO ] 2021-05-13T13:34:26,074 [main] RPCClient - Startup took 2231 msec
+[INFO ] 2021-05-13T13:34:26,841 [main] ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2021-05-13T13:34:26,989 [main] WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+[INFO ] 2021-05-13T13:34:27,170 [main] TomcatWebServer - Tomcat started on port(s): 10060 (http) with context path ''
+[INFO ] 2021-05-13T13:34:27,174 [main] Starter - Started Starter in 7.566 seconds (JVM running for 8.589)
+[INFO ] 2021-05-13T13:34:57,769 [http-nio-10060-exec-2] DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 2021-05-13T13:34:57,779 [http-nio-10060-exec-2] DispatcherServlet - Completed initialization in 10 ms

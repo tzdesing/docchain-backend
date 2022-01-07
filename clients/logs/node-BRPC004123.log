@@ -1,0 +1,4 @@
+[WARN ] 2021-05-11T11:31:29,285 [Thread-4 (ActiveMQ-client-global-threads)] RPCClientProxyHandler - Terminating observables.
+[INFO ] 2021-05-11T11:31:30,856 [Thread-4 (ActiveMQ-client-global-threads)] RPCClientProxyHandler - RPC server available.
+[WARN ] 2021-05-11T17:18:21,775 [Thread-6 (ActiveMQ-client-global-threads)] RPCClientProxyHandler - Terminating observables.
+[WARN ] 2021-05-11T17:18:24,020 [Thread-5 (ActiveMQ-client-global-threads)] RPCClientProxyHandler - Terminating observables.
